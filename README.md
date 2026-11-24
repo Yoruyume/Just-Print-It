@@ -1,18 +1,12 @@
 # Just Print It
 
-[![Version](https://vsmarketplacebadges.dev/version/xuangeaha.just-print-it.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![Installs](https://vsmarketplacebadges.dev/installs/xuangeaha.just-print-it.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![Downloads](https://vsmarketplacebadges.dev/downloads/xuangeaha.just-print-it.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![Rating Short](https://vsmarketplacebadges.dev/rating-short/xuangeaha.just-print-it.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![Rating Star](https://vsmarketplacebadges.dev/rating-star/xuangeaha.just-print-it.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it)
-
-[![TrendingDaily](https://vsmarketplacebadges.dev/trending-daily/xuangeaha.just-print-it.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![TrendingWeekly](https://vsmarketplacebadges.dev/trending-weekly/xuangeaha.just-print-it.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![TrendingMonthly](https://vsmarketplacebadges.dev/trending-monthly/xuangeaha.just-print-it.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it)
-
 Print a sentence easily in your Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, ShellScript, Clojure or Haskell files.
 
 在你的Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, Haskell, ShellScript, Clojure或Haskell文件中轻松地输出一个语句。
 
-**Homepage/主页**: [`https://www.xuangeaha.xyz/`](https://www.xuangeaha.xyz/)
+**Repository/仓库**: [`https://github.com/Yoruyume/just-print-it`](https://github.com/Yoruyume/just-print-it)
 
-**Repository/仓库**: [`https://github.com/KamaoKat/just-print-it`](https://github.com/KamaoKat/just-print-it)
-
-**Issues/问题**: [`https://github.com/KamaoKat/just-print-it/issues`](https://github.com/KamaoKat/just-print-it/issues)
+**Issues/问题**: [`https://github.com/Yoruyume/just-print-it/issues`](https://github.com/Yoruyume/just-print-it/issues)
 
 **Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.just-print-it/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.just-print-it/changelog)
 
@@ -20,7 +14,7 @@ Print a sentence easily in your Python, Java, C, C++, PHP, C#, JavaScript, JavaS
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-print-it`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-print-it)
 
-**Copyright (c) 2023-2026 KamaoKat(卡猫kat,XuangeAha(轩哥啊哈OvO))**
+**Copyright (c) 2023-2027 Yoruyume**
 
 # How To Use 使用方法
 
